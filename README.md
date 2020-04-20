@@ -4,7 +4,7 @@ A vulnerability in Elvis DAM was discovered and reported to WoodWing Software in
 Jetty web server used by some versions of Elvis DAM is vulnerable to path traversal attacks.
 PathResource class introduced in Jetty 9.3.X (CVE-2016-4800) can be bypassed by requesting malicious URLs containing specific escaped characters.
 
-Due to the way that Elvis DAM works, it is possible to gain access to its administration and other systems configured within it. This shell script retrives 4 configuration files from the affected server.
+Due to the way that Elvis DAM works, it is possible to gain access to its administration and other systems configured within it. This shell script retrieves 4 configuration files from the affected server.
 
     node-config.properties.txt
     ldap-config.properties.txt
