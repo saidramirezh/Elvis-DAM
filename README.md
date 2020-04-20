@@ -1,4 +1,4 @@
-# Elvis DAM - Directory traversal exploit (ElvisDAM-DT.sh)
+# Elvis DAM - Directory Traversal / Auth Bypass (ElvisDAM-DT.sh)
 
 A vulnerability in Elvis DAM was discovered and reported to WoodWing Software in May 2018.
 Jetty web server used by some versions of Elvis DAM is vulnerable to path traversal attacks.
