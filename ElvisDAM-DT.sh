@@ -139,7 +139,7 @@ if [ "$#" -eq 4 ]; then
             CONFIG_DIR="/ProgramData/Elvis%20Server/Config/"
             RETRIEVE_FILES
         elif [[ $PLATFORM == "linux" ]]; then
-            CONFIG_DIR="/srv/elvis-server/app/config/"
+            CONFIG_DIR="/srv/elvis-server/config/"
             RETRIEVE_FILES
         elif [[ $PLATFORM == "macos" ]]; then
             CONFIG_DIR="/Library/Elvis%20Server/Config/"
