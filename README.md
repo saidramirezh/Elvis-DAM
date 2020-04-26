@@ -23,7 +23,7 @@ WoodWing Software released a fix for this vulnerability in the following version
 
 This exploit has been successfully tested on the following versions and platforms:
 
-**CentOS/RHEL:**	5.27.6.206 GA, 5.27.2.260 GA
+**CentOS/RHEL:**	5.16.4.1 QP, 5.27.6.206 GA, 5.27.2.260 GA
 
 **macOS:**		5.11.3.2 GA, 5.27.6.206 GA, 5.19.1.154 GA
 
